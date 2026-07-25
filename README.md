@@ -1,7 +1,7 @@
-# Recai — DevOps & Vibe Coder
+# Recai — DevSecOps & Vibe Coder
 
 High-school student from Türkiye building practical software around Linux,
-backend systems, DevOps, self-hosting, and AI tooling.
+backend systems, DevSecOps, self-hosting, and AI tooling.
 
 I like turning ideas into reliable, automation-friendly software: APIs, CLIs,
 TUIs, agents, infrastructure tools, local-first apps, and embedded systems.
@@ -26,9 +26,9 @@ from the beginning—with Linux as the primary target.
 
 ## Current interests
 
-AI agents · DevOps tools · self-hosted software · backend services · CLI/TUI
-applications · cybersecurity utilities · network analysis · local-first apps ·
-embedded devices · automation · developer productivity
+AI agents · DevSecOps tools · self-hosted software · backend services · CLI/TUI
+applications · security automation · cybersecurity utilities · network analysis
+· local-first apps · embedded devices · automation · developer productivity
 
 ## Featured project
 
