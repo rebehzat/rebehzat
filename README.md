@@ -1,4 +1,4 @@
-# Recai — DevSecOps & Vibe Coder
+# Recai — DevSecOps & Agentic Engineer
 
 High-school student from Türkiye building practical software around Linux,
 backend systems, DevSecOps, self-hosting, and AI tooling.
